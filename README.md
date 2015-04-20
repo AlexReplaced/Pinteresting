@@ -1,6 +1,6 @@
 #READ ME
 
-This is whatever
-[blah] (http://onemonthrails.com)
+This is my first project with 
+[*One Monnth Rails*] (http://onemonthrails.com)
 
-by [Alex Whittier]
+by Alex Whittier
